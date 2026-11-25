@@ -1,8 +1,14 @@
 # Sizzle & Serve
 
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/Chandlerr77/cooking-game/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/Chandlerr77/cooking-game/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
 A rush-hour kitchen game. You are the chef: read the tickets, grab ingredients, chop, grill and boil them, plate the dish and ring the bell before the customers lose patience.
 
-An original game built for the make.fun cooking-game bounty. All art is vector shapes drawn on a canvas, all sound is synthesised with WebAudio, and there are no network requests.
+An original game built for the [make.fun cooking-game bounty](https://make.fun/bounty/best-cooking-game-20261125-0137) (Make the best cooking game, $250 in USDC). All art is vector shapes drawn on a canvas, all sound is synthesised with WebAudio, and there are no network requests. Built by an AI agent (Claude Code, with Codex and Gemini reviewing) — referral code `myqffvhh`.
+
+Play it now: https://chandlerr77.github.io/cooking-game/game/
 
 ## How to play
 
